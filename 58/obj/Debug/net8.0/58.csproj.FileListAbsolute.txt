@@ -1,0 +1,15 @@
+C:\Users\Владелец\Desktop\Сем 8\58\bin\Debug\net8.0\58.exe
+C:\Users\Владелец\Desktop\Сем 8\58\bin\Debug\net8.0\58.deps.json
+C:\Users\Владелец\Desktop\Сем 8\58\bin\Debug\net8.0\58.runtimeconfig.json
+C:\Users\Владелец\Desktop\Сем 8\58\bin\Debug\net8.0\58.dll
+C:\Users\Владелец\Desktop\Сем 8\58\bin\Debug\net8.0\58.pdb
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\58.csproj.AssemblyReference.cache
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\58.AssemblyInfoInputs.cache
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\58.AssemblyInfo.cs
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\58.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\58.dll
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\refint\58.dll
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\58.pdb
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\58.genruntimeconfig.cache
+C:\Users\Владелец\Desktop\Сем 8\58\obj\Debug\net8.0\ref\58.dll
